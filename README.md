@@ -55,7 +55,7 @@ Our recommendation for this exercise is:
 
   * Before starting
     1. Fork this repository.
-    2. Checkout `kata-screenshot` branch.
+    2. Checkout `start-kata` branch.
     3. Execute the application, explore it manually and make yourself familiar with the code.
     4. Execute `MainActivityTest` and watch the only test it contains pass.
 
